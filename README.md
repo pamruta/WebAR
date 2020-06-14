@@ -7,7 +7,7 @@
 
 Scripts in this directory:
 
-	hiro-marker.html :	Augmented Reality experience using Hiro Markers
+	Hiro-Marker.html :	Augmented Reality experience using Hiro Markers
 
 	Movie-AR.html :		Watching favorite classics in AR / VR
 
